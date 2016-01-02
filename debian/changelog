@@ -1,0 +1,5 @@
+python-q (2.6-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #796648)
+
+ -- Federico Ceratto <federico@debian.org>  Sat, 02 Jan 2016 11:22:53 +0000
